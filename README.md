@@ -1,2 +1,2 @@
 # hello-world
-Live in Chicago
+Live in Chicago.
